@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-### ⚙️ &nbsp; My GitHub 
+### ⚙️ &nbsp; My GitHub
 <p align="center">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NikitaPeshko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaPeshko&layout=compact&langs_count=8&theme=algolia&hide=php,html"/>
  </p>
+ 
+ 
+ <p align="center"><img src="https://profile-counter.glitch.me/%7BEvgenij009%7D/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
