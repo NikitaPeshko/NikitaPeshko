@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Tech Stack:
+
+Here are some ideas to get you started:
+- Backend: Java, 
+- Frontend: HTML5, CSS3, JavaScript, ReactJS
+- Database: MySql,PostgresSQL
+- Build tools: Maven
+- Servers: Tomcat
+- Version Control: Git
+- IDE: Intellij IDEA, VS Code
 
 
 ### ⚙️ &nbsp; My GitHub
