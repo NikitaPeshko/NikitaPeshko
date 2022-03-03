@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Tech Stack:
-
-Here are some ideas to get you started:
 - Backend: Java, 
 - Frontend: HTML5, CSS3, JavaScript, ReactJS
 - Database: MySql,PostgresSQL
