@@ -23,7 +23,7 @@ Tech Stack:
 - Version Control: Git
 - IDE: Intellij IDEA, VS Code
 
-LinkedIn <a href="www.linkedin.com/in/nikitapeshko">www.linkedin.com/in/nikitapeshko</a>
+LinkedIn <a href="https://linkedin.com/in/nikitapeshko">www.linkedin.com/in/nikitapeshko</a>
 
 
 ### ⚙️ &nbsp; My GitHub
